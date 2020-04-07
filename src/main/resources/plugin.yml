@@ -1,0 +1,7 @@
+name: SeniorTempmute
+author: DiogoMurano
+version: 1.0.0
+main: br.com.diogomurano.tempmute.MutePlugin
+commands:
+  tempmute:
+  unmute:
